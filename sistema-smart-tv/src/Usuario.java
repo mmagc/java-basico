@@ -5,7 +5,7 @@ public class Usuario {
 
         SmartTv smartTv = new SmartTv();
 
-        System.out.println( "Tv Ligada ? " + smartTv.ligada);
+        System.out.println( "Tv Ligada? " + smartTv.ligada);
         System.out.println( "Canal Aual: " + smartTv.canal);
         System.out.println( "Volume Atual: " + smartTv.volume);
 
@@ -13,10 +13,10 @@ public class Usuario {
         System.out.println( "Canal Aual: " + smartTv.canal);
 
         smartTv.ligar ();
-        System.out.println( "Novo Status --> Tv Ligada ? " + smartTv.ligada);
+        System.out.println( "Novo Status --> Tv Ligada? " + smartTv.ligada);
 
         smartTv.desligar ();
-        System.out.println( "Novo Status --> Tv Ligada ? " + smartTv.ligada);
+        System.out.println( "Novo Status --> Tv Ligada? " + smartTv.ligada);
 
         smartTv.aumentarVolume ();
         System.out.println( "Novo status --> Volume Atual: " + smartTv.volume);
