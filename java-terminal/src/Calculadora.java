@@ -1,4 +1,4 @@
-//@author Matheus Gnann
+/**@author Matheus Gnann */
 
 public class Calculadora {
     public static void main(String[] args) {
