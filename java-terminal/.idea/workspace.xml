@@ -47,6 +47,10 @@
   "keyToString": {
     "Application.AboutMe.executor": "Run",
     "Application.MinhaClasse.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -97,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739285392023</updated>
-      <workItem from="1739285393133" duration="2998000" />
+      <workItem from="1739285393133" duration="4829000" />
     </task>
     <servers />
   </component>
